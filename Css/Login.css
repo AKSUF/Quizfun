@@ -1,0 +1,30 @@
+#Tag {
+    margin-left: 15vh;
+    margin-top: 10vh;
+}
+
+#Tag1 {
+    margin-left: 5vh;
+    margin-top: 8vh;
+}
+
+#exampleFormControlInput1 {
+    color: #A8171A;
+}
+
+#form {
+    margin-top: 25px;
+}
+
+#exampleFormSubmit {
+    background-color: #A8171A;
+}
+
+#signuplogin {
+    text-decoration: none;
+    margin-left: 2%;
+    color: #500708;
+    font-family: 'Times New Roman', Times, serif;
+    border: 1px solid rgb(90, 2, 2);
+    box-shadow: white;
+}
